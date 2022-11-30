@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#resultOfGuess{
+    font-size: x-large;
+}
+ul.list{
+    list-style: none;
+    font-size: larger;
+}
